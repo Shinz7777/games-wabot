@@ -1,6 +1,6 @@
 let fetch = require('node-fetch')
 
-let timeout = 120000
+let timeout = 60000
 let poin = 1000
 let handler = async (m, { conn, usedPrefix }) => {
     conn.tebaklagu = conn.tebaklagu ? conn.tebaklagu : {}
