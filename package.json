@@ -1,7 +1,7 @@
 {
-  "name": "games-wabot",
+  "name": "narendrabot",
   "version": "0.9.8",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Narendra Bot We Silence",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -23,9 +23,9 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/BochilGaming/games-wabot",
+  "homepage": "https://github.com/Shinz7777/games-wabot",
   "author": {
-    "name": "BochilGaming"
+    "name": "Fazal Narendra"
   },
   "repository": {
     "type": "git",
