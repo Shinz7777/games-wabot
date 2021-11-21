@@ -12,7 +12,7 @@ let family100_api = [
             jawaban: json.result.jawaban
         }
     }],
-    ['https://raw.githubusercontent.com', '/BochilTeam/database/master/games/family100.json', null, null, json => {
+    ['https://raw.githubusercontent.com', '/Shinz7777/database/master/games/family100.json', null, null, json => {
         return json[Math.floor(Math.random * json.length)]
     }]
 ]
