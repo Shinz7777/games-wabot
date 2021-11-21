@@ -16,7 +16,7 @@
 
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BochilGaming/games-wabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shinz7777/games-wabot)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
@@ -28,7 +28,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install bash && pkg install wget
-wget -O - https://raw.githubusercontent.com/BochilGaming/games-wabot/main/install2.sh | bash
+wget -O - https://raw.githubusercontent.com/Shinz7777/games-wabot/main/install2.sh | bash
 ```
 
 ---------
@@ -166,7 +166,8 @@ conn.logger.level = 'debug'
 **Allah SWT**
 
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+[![Shinz7777](https://github.com/Shinz7777.png?size=100)](https://github.com/Shinz7777)
+[![BochilGaming](https://gitHub.com/BochilGaming.png?size=100](https://GitHub.com/BochilGaming)
 
 #### Contributor
 [![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
