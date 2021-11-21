@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix }) => {
         throw false
     }
     // ubah isi 'id' kalo mau ganti playlist spotifynya
-    let res = await fetch(global.API('xteam', '/game/tebaklagu/', { id: '31uradrv3c5p2l4pppp4uc5nhbeq' }, 'APIKEY'))
+    let res = await fetch(global.API('xteam', '/game/tebaklagu/', { id: '3AaKHE9ZMMEdyRadsg8rcy' }, 'APIKEY'))
     if (res.status !== 200) throw await res.text()
     let result = await res.json()
     console.log(result)
